@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Title": "Clean Code",
+    "Author": "Robert C. Martin",
+    "Year": 2008,
+    "Genre": "Software Engineering",
+    "Price": 32.99
+  },
+  {
+    "Id": 2,
+    "Title": "The Pragmatic Programmer",
+    "Author": "Andrew Hunt, David Thomas",
+    "Year": 1999,
+    "Genre": "Software Development",
+    "Price": 28.50
+  },
+  {
+    "Id": 3,
+    "Title": "Design Patterns",
+    "Author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "Year": 1994,
+    "Genre": "Architecture",
+    "Price": 39.95
+  },
+  {
+    "Id": 4,
+    "Title": "Refactoring",
+    "Author": "Martin Fowler",
+    "Year": 2018,
+    "Genre": "Code Quality",
+    "Price": 35.75
+  },
+  {
+    "Id": 5,
+    "Title": "You Don't Know JS Yet",
+    "Author": "Kyle Simpson",
+    "Year": 2020,
+    "Genre": "JavaScript",
+    "Price": 24.99
+  }
+]
